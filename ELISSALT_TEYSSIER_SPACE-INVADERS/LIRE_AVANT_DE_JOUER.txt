@@ -1,0 +1,37 @@
+ELISSALT Emma et TEYSSIER Timothée : SPACE INVADERS
+Lien github : https://github.com/emma-elissalt/ELISSALT_TEYSSIER_SPACE-INVADERS
+
+Bonjour, notre projet se compose des fichiers suivants :
+ - SpaceInvaders.py (programme principal)
+ - ClasseVaisseau.py
+ - ClasseTir.py
+ - ClasseObjetGraphique.py
+ - ClasseIlot.py
+ - ClasseBonus.py
+ - ClasseAliens.py
+
+Pour jouer au jeu, il faut éxécuter le programme SpaceInvaders.py, il est conseillé de lire l'onglet A propos..(dans le menu Actions) 
+avant de commencer une partie.
+Les règles de notre jeu sont les suivantes :
+ - Il est constitué de 3 niveaux différents qui s'enchainent automatiquement après chaque victoire, les niveaux s'accentuent en terme de difficulté
+ - Il est composé d'un menu permettant d'accéder au scénario du jeu (A propos),de lancer la partie (Nouvelle Partie), ou de la quitter (Quitter)
+ - Et de deux bouttons situés sur la colonne de droite dans le menu principal permettant de lancer la partie (Nouvelle Partie), ou de la quitter (Quitter)
+ 
+Pour vous faciliter la vie, nous avonc insérer 3 touches magiques :
+ - En appuyant sur la touche P, cela mettra le jeu en pause instantannément le temps de prendre un café, pour reprendre la partie, appuyer de nouveau sur P
+ - Premier cheatcode, en appuyant sur V, vous gagnerez 10 vies permettant de réajuster le niveau avec le boss de fin
+ - Dernier cheatcode, en appuyant sur T, vous gagnerez 3 tirs supplémentaires, avec chance au moins un de vos tirs touchera la cible... ;)
+
+     									!!! Bonne chance !!!
+
+
+
+
+
+
+
+
+
+
+ 
+ 
